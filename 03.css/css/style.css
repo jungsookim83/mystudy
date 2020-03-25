@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+/* css작성시 기본적으로 사용해주면 좋다 */
+
+p {
+    background-color: lightblue;
+}
+
+
+/* css 주석처리*/
